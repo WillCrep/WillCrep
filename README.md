@@ -12,7 +12,7 @@ With the **MS SQL** database engine and additionally with **Angular**
 
 ## I am learning 🧗
 
-I'm self-taught **TypeScript** more thoroughly, **Flutter** as a very viable cross-platform framework, **Net** 5 | 6, **React** and **Blazor**.
+I'm self-taught **TypeScript** more thoroughly, **Flutter** as a very viable cross-platform framework, **Net** 5 | 6, **React** | **Fluter** and **Blazor**.
 
 ## My networks 🧙‍♂️
 
