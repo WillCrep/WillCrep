@@ -16,6 +16,5 @@ I'm self-taught **TypeScript** more thoroughly, **Flutter** as a very viable cro
 
 ## My networks 🧙‍♂️
 
- - [Twitter](https://twitter.com/WillianCrespo8)
  - [Github](https://github.com/WillCrep)
  - [Linkedin](https://github.com/WillCrep)
